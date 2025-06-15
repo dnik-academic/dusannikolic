@@ -1,4 +1,0 @@
-redline.mp3
-blueline.mp3
-yellowline.mp3
-greenline.mp3
