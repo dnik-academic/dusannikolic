@@ -1,0 +1,87 @@
+html, body{
+    background-color: white;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 100px;
+}
+form{
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    color: #0D223F;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    margin-right: 300px;
+}
+p.bigger {
+    line-height: 2.2;
+}
+button{
+    background-color: #0D223F;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #F6A623;
+    height: 40px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+input[type=text]{
+    background-color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    height: 20px;
+    width: 150px;
+    margin-top: 10px;
+    border-style: ridge;
+}
+input[type=number]{
+    background-color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    height: 20px;
+    width: 60px;
+    margin-top: 10px;
+    border-style: ridge;
+}
+input[type=submit]{
+    background-color: #0D223F;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #F6A623;
+    height: 40px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+
+.expbox{
+  position: relative;
+  display: block;
+  background: #fff;
+  width: 800px;
+  height: 300px;
+  float: left;
+  margin-bottom: 50px;
+  margin-left: 35px;
+  margin-top: 20px;
+  margin-right: 10px;
+  z-index: 0;
+  border-radius: 25px;
+}
+
+#Bar{
+    color: #0D223F;
+    height: 30px; 
+    font-weight: bold;
+    border-bottom: 2px solid #F6A623;
+    padding-top: 15px;
+    padding-left: 5px;
+}
