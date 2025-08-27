@@ -79,7 +79,7 @@ $BIH2=$_POST['BIH2'];
 
 
 
-$ISL2=$_POST['ILS2'];
+$ISL2=$_POST['ISL2'];
 $BEL2=$_POST['BEL2'];
 
 $FRA2=$_POST['FRA2'];
