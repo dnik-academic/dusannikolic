@@ -85,3 +85,7 @@ input[type=submit]{
     padding-top: 15px;
     padding-left: 5px;
 }
+table th,
+table td {
+    font-weight: normal;
+}
