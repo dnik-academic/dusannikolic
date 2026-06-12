@@ -88,4 +88,5 @@ input[type=submit]{
 table th,
 table td {
     font-weight: normal;
+    text-align: center;
 }
