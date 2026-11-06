@@ -1,0 +1,81 @@
+---
+
+---
+title: "Curriculum Vitae"
+---
+
+# Curriculum Vitae
+
+<p class="cv-download">
+  <a href="files/Dusan_Nikolic_CV.pdf" target="_blank">
+    ↓ Download full CV (PDF)
+  </a>
+</p>
+
+## Academic positions
+
+**2026–2028**  
+**Postdoctoral Research Scientist**  
+Acoustics Research Institute (ISF), Austrian Academy of Sciences (ÖAW), Vienna, Austria
+
+**2025–2026**  
+**Visiting Researcher**  
+Department of Linguistics, University of Calgary, Canada
+
+## Education
+
+**2018–2023**  
+**PhD in Linguistics**  
+University of Calgary, Canada
+
+Research focused on the acoustic cues involved in the perception of lexical pitch accents by native and non-native listeners.
+
+**2015–2017**  
+**MA in Linguistics**  
+University of Belgrade and University of Niš, Serbia
+
+Research focused on the acoustic properties of speech produced by learners of English.
+
+**2015**  
+**BA with Honours**  
+University of Niš, Serbia
+
+## Awards and fellowships
+
+- Killam Doctoral Scholarship (2021)
+- Eyes High Doctoral and International Awards
+- Dositeja Fund Scholarship
+- Dean's Entrance Award
+- Language Research Centre Fellowships
+
+## Teaching experience
+
+**2018–2023**  
+**University of Calgary and Mount Royal University**, Canada
+
+Teaching experience in linguistics and related areas, alongside doctoral research.
+
+## Research interests
+
+- Speech production and perception
+- Acoustic phonetics and phonology
+- Lexical prosody, stress, and pitch
+- Speech processing and spoken-word recognition
+- Phonetic variation and contextual effects
+- Eye-tracking and EEG methods
+
+## Research methods
+
+- Acoustic analysis of speech
+- Speech perception and production experiments
+- Eye-tracking
+- Electroencephalography (EEG)
+- Statistical modelling and computational analysis
+
+## International research experience
+
+- **University of Warsaw**, Poland — Erasmus+ exchange (2016)
+- **University of Calgary**, Canada — doctoral studies and research (2018–2023), followed by visiting research (2025–2026)
+- **Austrian Academy of Sciences**, Austria — postdoctoral research (2026–2028)
+
+---

@@ -1,0 +1,30 @@
+---
+
+---
+title: "Contact"
+---
+
+I am a Research Scientist at the Acoustics Research Institute of the Austrian Academy of Sciences (ÖAW), based in Vienna, Austria.
+
+I welcome inquiries and opportunities for research collaboration, academic exchange, and discussion.
+
+## Contact information
+
+**Dušan Nikolić**
+
+Acoustics Research Institute  
+Austrian Academy of Sciences (ÖAW)  
+Vienna, Austria
+
+**Email:** [your.email@oeaw.ac.at](mailto:your.email@oeaw.ac.at)
+
+**Institutional profile:** [Acoustics Research Institute](https://www.oeaw.ac.at/isf)
+
+## Academic profiles
+
+- [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL)
+- [ORCID](YOUR_ORCID_URL)
+- [ResearchGate](YOUR_RESEARCHGATE_URL)
+- [GitHub](YOUR_GITHUB_URL)
+
+---

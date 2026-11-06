@@ -1,0 +1,59 @@
+---
+title: ""
+---
+
+::::: hero
+::: hero-copy
+<p class="eyebrow">
+
+PHONETICS · PHONOLOGY · SPEECH PROCESSING
+
+</p>
+
+# Dušan Nikolić
+
+<p class="hero-subtitle">
+
+Research Scientist<br> Acoustics Research Institute<br> Austrian Academy of Sciences (ÖAW), Vienna
+
+</p>
+
+<p class="intro-text">
+
+My research explores the architecture of human speech processing, with a particular focus on how listeners and speakers produce, perceive, and process linguistic information.
+
+</p>
+
+<p class="hero-links">
+
+<a href="research.qmd">Research</a> / <a href="publications.qmd">Publications</a> / <a href="cv.qmd">Curriculum Vitae</a>
+
+</p>
+:::
+
+::: hero-image
+<img src="images/profile.jpg" alt="Dušan Nikolić"/>
+:::
+:::::
+
+## Research
+
+My overarching research goal is to contribute to an understanding of the architecture of human speech processing.
+
+My work investigates the interaction between acoustic, phonetic, phonological, and cognitive processes involved in speech production and perception.
+
+### Research interests
+
+- **Variation and variability** — individual, linguistic, and contextual sources of variation in speech.
+- **Context effects** — how linguistic and situational contexts shape speech production and perception.
+- **Lexical prosody and speech processing** — how prosodic information contributes to the recognition and processing of spoken language.
+
+## Current affiliation
+
+**Acoustics Research Institute (ISF)**
+
+Austrian Academy of Sciences (ÖAW)
+
+Vienna, Austria
+
+[Institutional profile](https://www.oeaw.ac.at/isf)

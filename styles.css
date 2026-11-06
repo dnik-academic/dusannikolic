@@ -1,0 +1,387 @@
+
+/* =========================================
+   GENERAL
+========================================= */
+
+body {
+  background-color: #ffffff;
+  color: #292929;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+/* =========================================
+   NAVIGATION
+========================================= */
+
+.navbar {
+  background-color: #ffffff;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.navbar .navbar-brand {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 22px;
+  color: #292929;
+}
+
+.navbar .nav-link,
+.navbar .nav-link.active {
+  color: #555555 !important;
+  font-size: 15px;
+}
+
+.navbar .nav-link:hover {
+  color: #111111 !important;
+}
+
+/* =========================================
+   CONTENT WIDTH
+========================================= */
+
+#quarto-content main.content {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 55px 35px 80px;
+}
+
+/* =========================================
+   TYPOGRAPHY
+========================================= */
+
+h1, h2, h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #252525;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 56px;
+  line-height: 1.15;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-size: 34px;
+  margin-top: 65px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 12px;
+}
+
+h3 {
+  font-size: 23px;
+  margin-top: 35px;
+}
+
+p {
+  max-width: 780px;
+}
+
+/* =========================================
+   HOMEPAGE HERO LAYOUT
+========================================= */
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 65px;
+  align-items: center;
+  padding: 35px 0 70px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.hero-copy {
+  min-width: 0;
+}
+
+.hero-copy h1 {
+  font-size: 62px;
+  margin-top: 22px;
+  margin-bottom: 25px;
+}
+
+.eyebrow {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #888888;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.hero-subtitle {
+  font-size: 17px;
+  line-height: 1.9;
+  color: #777777;
+  margin-bottom: 25px;
+}
+
+.intro-text {
+  font-size: 16px;
+  line-height: 1.9;
+  color: #444444;
+  margin-bottom: 30px;
+}
+
+/* =========================================
+   PROFILE PHOTOGRAPH
+========================================= */
+
+.hero-image {
+  width: 100%;
+  max-width: 300px;
+  justify-self: end;
+}
+
+.hero-image img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 2px;
+}
+
+/* =========================================
+   HOMEPAGE LINKS
+========================================= */
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.hero-links a {
+  color: #555555;
+  text-decoration: none;
+  border-bottom: 1px solid #bbbbbb;
+}
+
+.hero-links a:hover {
+  color: #111111;
+  border-color: #111111;
+}
+
+.hero-links span {
+  color: #aaaaaa;
+}
+
+/* =========================================
+   GENERAL LINKS
+========================================= */
+
+a {
+  color: #555555;
+}
+
+a:hover {
+  color: #111111;
+}
+
+/* =========================================
+   FOOTER
+========================================= */
+
+.nav-footer {
+  background-color: #ffffff;
+  border-top: 1px solid #eeeeee;
+  color: #888888;
+  font-size: 12px;
+}
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 768px) {
+
+  #quarto-content main.content {
+    padding: 35px 22px 60px;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 35px;
+    padding-top: 20px;
+  }
+
+  .hero-copy h1 {
+    font-size: 44px;
+  }
+
+  .hero-image {
+    max-width: 260px;
+    justify-self: start;
+  }
+
+  h2 {
+    font-size: 28px;
+    margin-top: 45px;
+  }
+
+}
+
+/* =========================================
+   RESEARCH PAGE
+========================================= */
+
+.research-intro {
+  font-size: 18px;
+  line-height: 1.9;
+  color: #444444;
+  max-width: 850px;
+}
+
+#quarto-content main.content h2 {
+  margin-top: 55px;
+}
+
+#quarto-content main.content h3 {
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+#quarto-content main.content ul {
+  padding-left: 24px;
+}
+
+#quarto-content main.content li {
+  padding-bottom: 8px;
+}
+
+
+/* =========================================
+   PUBLICATIONS PAGE
+========================================= */
+
+.publication {
+  margin-bottom: 28px;
+  padding-bottom: 22px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.publication p {
+  margin-bottom: 8px;
+}
+
+.publication a {
+  font-size: 14px;
+  text-decoration: none;
+  border-bottom: 1px solid #cccccc;
+}
+
+.publication a:hover {
+  border-color: #222222;
+}
+
+#quarto-content main.content h2 {
+  margin-top: 55px;
+  margin-bottom: 25px;
+}
+
+
+/* Research projects */
+
+.project-status {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 4px 9px;
+  background: #f4f4f4;
+  color: #666666;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+}
+
+#quarto-content main.content hr {
+  margin-top: 42px;
+  margin-bottom: 42px;
+  border: 0;
+  border-top: 1px solid #e8e8e8;
+}
+
+#quarto-content main.content h2 {
+  margin-top: 48px;
+  margin-bottom: 18px;
+}
+
+#quarto-content main.content h3 {
+  margin-top: 30px;
+}
+
+
+/* CV page */
+
+.cv-section {
+  margin-bottom: 42px;
+}
+
+.cv-entry {
+  margin-bottom: 26px;
+}
+
+.cv-date {
+  color: #777777;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  margin-bottom: 3px;
+}
+
+.cv-entry p {
+  margin-top: 4px;
+  margin-bottom: 5px;
+}
+
+.cv-entry strong {
+  color: #292929;
+}
+
+#quarto-content main.content ul {
+  padding-left: 22px;
+}
+
+#quarto-content main.content li {
+  margin-bottom: 7px;
+}
+
+/* CV download link */
+
+.cv-download {
+  margin-top: 12px;
+  margin-bottom: 38px;
+}
+
+.cv-download a {
+  display: inline-block;
+  color: #444444;
+  font-size: 14px;
+  text-decoration: none;
+  border-bottom: 1px solid #999999;
+  padding-bottom: 3px;
+  transition: border-color 0.2s ease;
+}
+
+.cv-download a:hover {
+  color: #111111;
+  border-color: #111111;
+}
+
+
+/* Contact page */
+
+#quarto-content main.content a {
+  color: #444444;
+  text-decoration: none;
+  border-bottom: 1px solid #cccccc;
+}
+
+#quarto-content main.content a:hover {
+  color: #111111;
+  border-color: #111111;
+}

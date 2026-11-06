@@ -1,0 +1,32 @@
+---
+title: "Publications"
+---
+
+My publications examine different aspects of speech production, speech perception, phonetic variation, and prosodic processing.
+
+## Journal articles
+
+<!-- Add journal articles here, newest first. -->
+
+**Author(s). (Year).** Title of the article. *Journal Name, Volume*(Issue), pages.
+
+[DOI](https://doi.org/)
+
+## Book chapters
+
+<!-- Add book chapters here. -->
+
+**Author(s). (Year).** Chapter title. In *Book title* (pp. xx–xx). Publisher.
+
+## Conference proceedings
+
+<!-- Add conference proceedings here. -->
+
+**Author(s). (Year).** Title of the contribution. *Conference Proceedings*, pages.
+
+## Conference presentations
+
+<!-- Add selected conference presentations here. -->
+
+**Author(s). (Year).** Title of presentation. Conference name, Location.
+---

@@ -1,0 +1,32 @@
+
+project:
+  type: website
+  output-dir: docs
+  resources:
+  - CNAME
+
+website:
+  title: "Dušan Nikolić"
+  description: "Academic website of Dušan Nikolić"
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

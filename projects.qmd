@@ -1,0 +1,83 @@
+---
+
+---
+title: "Projects"
+---
+
+# Research Projects
+
+My research examines how listeners and speakers produce, perceive, and process linguistic information. The projects below address different aspects of this broader goal, with a particular focus on lexical prosody and spoken language processing.
+
+## NEULEX: Evidence Accumulation During Lexical Processing
+
+**Research focus:** Lexical stress and spoken word recognition
+
+This project investigates how listeners accumulate and integrate acoustic evidence during spoken word recognition, with a particular focus on lexical stress.
+
+It aims to better understand how prosodic information contributes to lexical processing and how different acoustic cues shape the recognition of spoken words.
+
+**Research questions**
+
+- How do listeners use stress-related acoustic information during spoken word recognition?
+- How are different prosodic cues integrated over time?
+- How does linguistic experience shape the accumulation of perceptual evidence?
+
+**Methods**
+
+- Electroencephalography (EEG)
+- Eye-tracking
+- Auditory perception experiments
+- Computational modelling of evidence accumulation
+
+<text class="project-status">Research proposal in development</text>
+
+---
+
+## The Perception of Serbian Lexical Pitch Accents
+
+**Research focus:** Lexical prosody, pitch, and duration
+
+This project examines how listeners perceive and use acoustic cues to distinguish Serbian lexical pitch accents. In particular, it investigates the relative contribution of pitch and duration to lexical recognition.
+
+By comparing native Serbian listeners and listeners with different linguistic backgrounds, the research explores how language experience shapes the perceptual weighting of prosodic cues.
+
+**Research questions**
+
+- How do listeners use pitch and duration to identify lexical pitch accents?
+- Do native and non-native listeners differ in their weighting of these acoustic cues?
+- How does linguistic experience influence the perception of lexical prosody?
+
+**Methods**
+
+- Speech perception experiments
+- Acoustic analysis
+- Eye-tracking
+- Statistical modelling
+
+---
+
+## Speech Production and Phonetic Variation
+
+**Research focus:** Speech production and coarticulation
+
+This line of research investigates how speech sounds are realised in different phonetic and linguistic contexts. It focuses on the sources of phonetic variation and on how articulatory and acoustic properties of speech are influenced by neighbouring sounds and broader linguistic contexts.
+
+**Research questions**
+
+- How does phonetic realisation vary across speakers and contexts?
+- How do neighbouring sounds influence the acoustic properties of speech?
+- How are contextual influences reflected in speech production?
+
+**Methods**
+
+- Acoustic phonetic analysis
+- Speech production experiments
+- Statistical modelling
+
+---
+
+## A broader research perspective
+
+Together, these projects contribute to my broader research goal: developing an architecture of human speech processing that accounts for variation and variability, contextual influences, and the role of lexical prosody in speech perception and production.
+
+---
