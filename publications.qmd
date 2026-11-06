@@ -8,25 +8,104 @@ My publications examine different aspects of speech production, speech perceptio
 
 <!-- Add journal articles here, newest first. -->
 
-**Author(s). (Year).** Title of the article. *Journal Name, Volume*(Issue), pages.
+- **Nikolić, D. & Winters, S. (in preparation).** Perception of Serbian Pitch Accents by Serbian and French listeners in a Sequence Recall Task. *Journal of Phonetics.*
 
-[DOI](https://doi.org/)
+- **Nikolić, D., Russell, C., Brooklyn, S., Sazzad, S., & Winters, S. (submitted).** An Online Free Classification Method for Investigating Perceptual Similarity in Speech. *Phonetica.*
 
-## Book chapters
+- **Nikolić, D. & Sredojević, D. (to appear).** Examining the relationship between speech perception and production through lexical pitch accents in Standard Serbian. *Matica Srpska Journal of Philology and Linguistics.*
+
+- **Nikolić, D. & Winters, S. (2026).** Native and non-native listeners’ perception of Serbian lexical pitch accents. *Canadian Journal of Linguistics/Revue Canadienne De Linguistique.*<https://doi.org/10.1017/cnj.2026.10041>
+
+- **Nikolić, D. (2026).** Perception of the acoustic properties of Serbian lexical pitch accents. *Journal of Experimental Linguistics,* 35, 1-32. https://doi.org/10.1344/efe-2026-35-1-32  
+
+- **Coretta, S., Casillas, J. V., Roessig, S., Franke, M., Ahn, B., Al-Hoorie, A. H., ... & Wood, A. (2023).** Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human-speech analyses. *Advances in Methods and Practices in Psychological Science*, *6*(3), 25152459231162567.
+
+- **Nikolić, D. & Winters, S. (2022).** Are Serbian and English listeners insensitive to lexical pitch accents in Serbian?. *Phonetica*, *79*(4), 397-423. <https://doi.org/10.1515/phon-2022-2023>
+
+- **Nikolić, D. (2021).** Effects of F0 acoustic parameters on the perception of Serbian lexical pitch accents. [*Anali Filološkog Fakulteta*](https://anali.fil.bg.ac.rs/index.php/anali/issue/view/11) *33*(1), 13–27. https://doi.org/10.18485/analiff.2021.33.1.1
+
+- **Nikolić, D. (2021).** F0 Acoustic Parameters’ Effects on Discrimination of Lexical Pitch Accents. In Hernández, A. & Butterworth E. (eds.) [2020 CLA Conference Proceedings](https://cla-acl.artsci.utoronto.ca/actes-2020-proceedings/). Western University, Canada.
+
+- **Nikolić, D. (2020).** Distribution of PRO in Serbian Subjunctives. In Nikolić, D., Daniel, A.D., Nelson, B.C., Oguz, M., & Xu, K. (eds.) [*Calgary Working Papers in Linguistics Calgary Working Papers in Linguistics (CWPL)*](https://prism.ucalgary.ca/bitstream/handle/1880/112801/CWPL%20Volume%2031%20Full.pdf?sequence=1&isAllowed=y). University of Calgary, Canada.
+
+- **Nikolić, D. (2019).** Tone and break-index (ToBi) theoretical framework applications with EFL speakers. Proceedings from *Language, Literature, Theory*. University of Nis, Serbia (27-28 April, 2018).
+
+- **Nikolić, D. (2018).** Empirical Analysis of Intonation Activities in EFL Student’s Books. *International Journal of Applied Linguistics and English Literature*, *7*(3), 181-187.
+
+- **Nikolić, D.** (2017). Intelligibility within a Modified CLIL Framework. *Glottodidactica. An International Journal of Applied Linguistics*, *44*(1), 119-130.
+
+- **Nikolić, D.** (2016). Acoustic analysis of English vowels produced by American speakers and highly competent Serbian L2 speakers. *Facta Universitatis, Series: Linguistics and Literature*, 85-101.
+
+## Book Reviews
 
 <!-- Add book chapters here. -->
 
-**Author(s). (Year).** Chapter title. In *Book title* (pp. xx–xx). Publisher.
+- **Nikolić, D. (2023).** Daniel Silverman. 2017. A Critical Introduction to Phonology. Functional and Usage-Based Perspectives. 2nd edition. London: Bloomsbury. Pp. xxi + 360. US \$33.95. *Canadian Journal of Linguistics/Revue Canadienne de Linguistique*, *68*(1), 152–157. doi:10.1017/cnj.2022.17
+
+- **Nikolić, D. (2022).** Clausal complementation in South Slavic: edited by Björn Wiemer and Barbara Sonnenhauser, Berlin, De Gruyter Mouton, 2022, viii+ 490 pp., US \$154.99 (hardcover), ISBN 978-3-11-072585-8.
 
 ## Conference proceedings
 
 <!-- Add conference proceedings here. -->
 
-**Author(s). (Year).** Title of the contribution. *Conference Proceedings*, pages.
+- **Nikolić, D., & Reinisch, E. (2026).** To wait or not to wait? An eye-tracking account of the integration of acoustic cues of lexical pitch accents. Presented at Architecture and Mechanisms for Language Processing 2026 (2-4 September, 2026).
 
-## Conference presentations
+- **Nikolić, D., Gardner, K. & Athanasopoulou, A. (2026).** Integration of Acoustic Information in Lexical Pitch Accent Processing. Presented at Canadian Linguistics Association Annual Meeting 2026 (17-19 June, 2026).
+
+- **Nikolić, D., Gardner, K. & Athanasopoulou, A. (2026).** Real-time Integration of Acoustic Cues of Lexical Pitch Accents: An Eye Tracking Study. Presented at Hanyang International Symposium on Phonetics and Cognitive Sciences of Language 2026 (22-23 May, 2026).
+
+- **Nikolić, D. (2025)**. Sci-fi Phonetics: Teaching Phonetics through Science Fiction. Presented at the Methods and Techniques in Phonetic Sciences conference (MATIPS 2025), University of Alberta, Canada (18 October, 2025).
+
+- **Nikolić, D., Russell, C., Sheppard, B., Winters, S. (2025)**. Mapping the unknown: Exploring similarities in speech perception through a free classification method. Presented at the Methods and Techniques in Phonetic Sciences conference (MATIPS 2025), University of Alberta, Canada (18 October, 2025).
+
+- **Nikolić, D. (2025)**. Perception of Serbian restricted tone by native and non-native listeners: Evidence from anonline free classification task. Presented at the Phonetics and Phonology in Europe conference (PaPE 2025), University of the Balearic Islands, Spain (25 - 27 Jun, 2025).
+
+- **Nikolić, D. (2024)**. Processing of Serbian Restricted Tone by Native and Non-native Listeners. Presented at the Austrian Linguistics Conference (Österreichische Linguistiktagung, University of Innsbruck, Austria (17 - 19 Dec, 2024).
+
+- **Nikolić, D. (2024)**. Dialectal Variation in the Perceptual Similarity Space of Serbian Lexical Pitch Accent. Presented at Language, Literature, Intersectionality (LLI), University of Niš, Serbia (27 April, 2024).
+
+- **Nikolić, D. (2023)**. Perceptual similarity space of Serbian lexical pitch accents: evidence from Serbian and French listeners. Presented at International Congress of Phonetic Sciences (ICPHS).(7-11 August, 2023).
+
+- **Nikolić, D. (2022).** Word Stress Acoustic Correlates: English Speakers versus Exemplar Models. Presented at [*Amlap 2022*](https://amlap2022.york.ac.uk/)*.* University of York,  England (7-9 September, 2022).
+
+- **Nikolić, D. (2022).** Can Exemplar Models Replicate Human Production of Word Stress? A Case of Canadian English Speakers. Presented at [*SICOL* ](http://sicol2022.creatorlink.net/), Sunkyungwan University (11-12 August, 2022).
+
+- **Nikolić, D. (2022).** Is There “Deafness” to Stress Contrasts: A Case of English and Serbian Speakers? Presented at *Canadian Linguistic Association (CLA).* University of Manitoba,  Canada (1-4, June, 2022). 
+
+- **Nikolić, D. (2021).** Are Non-Native Speakers “Deaf” to Lexical Pitch Accents? Presented at *Phonetics and Phonology in Europe 2021.* Pompeu Fabra University,  Barcelona, Spain (21- 23, June, 2021).
+
+- **Nikolić, D. (2021).** “Deafness” to Lexical Pitch Accents: The Case of Non-native Listeners. Presented at *Canadian Linguistic Association (CLA)*. University of Alberta,  Alberta, Canada (4 June, 2021). 
+
+- **Nikolić, D. (2021).** Is There “Deafness” to Lexical Pitch Accent. Presented at *STEP (LSA)* (19 May, 2021). Poster.
+
+- **Nikolić, D. (2021).** F0 Acoustic Parameters Effects on Discrimination of Lexical Pitch Accents. Presented at *Linguistic Society of America (LSA)* (7-9 January, 2021). 
+
+- **Nikolić, D. (2020)**. Effects of Acoustic Parameters on the Perception of Serbian Lexical Pitch Accents. Presented at *Canadian Linguistic Association (CLA)*. Western University,  Ontario, Canada (30 May, 2020). 
+
+- **Nikolić, D. (2020).** Effects of F0 Acoustic Parameters on the Perception of Serbian Lexical Pitch Accents. Presented at *BIMEP (Belgrade International Meeting of English Phoneticians)*. University of Belgrade, Serbia (20 March, 2020). 
+
+- **Nikolić, D. (2019).** Perception of L2 Lexical Pitch Accents. Presented at *Northwest Conference on Phonetics/Phonology (NowPhon)*. University of Calgary, Calgary, Canada (21 Sep, 2019).
+
+- **Nikolić, D. (2018).** ToBi Analysis of EFL Serbian Speakers’ Intonation Use. Presented at *Alberta Conference on Linguistics*. University of Calgary, Canada (27 October, 2018).
+
+- **Nikolić, D. (2018).** Contribution of Segmental and Intonation Features to the Perception of Foreign Accent. Presented at *BIMEP (Belgrade International Meeting of English Phoneticians)*. University of Belgrade, Serbia (30 March, 2018).
+
+- **Nikolić, D. (2017).** Communication: An Overview of CLIL and Non-CLIL Classroom Practices. Presented at *Osterreichische Linguistiktagung*. Alpen-Adrian University Klagenfurt, Austria (7-10 December, 2017).
+
+## Talks
 
 <!-- Add selected conference presentations here. -->
 
-**Author(s). (Year).** Title of presentation. Conference name, Location.
----
+- **Nikolić, D. (2022).** Perception of Lexical Pitch Accents by Serbian and French Listeners. Given at University of Trier. (13 December, 2022).
+
+## Editorial Work
+
+<!-- Add selected conference presentations here. -->
+
+- **Nikolić, D. (2026).** When Feedback Matters: An Active-Inference Model of the Speaking-over-Writing Advantage in Retrieving Word-Production Modality. *MDPI: Behavioral Sciences*. 
+
+- **Nikolić, D. (2026).** Acoustics of Tone-Stress interaction in Disyllabic Triplets: An Empirical Study on Gojri. *MDPI: Language*.
+
+- **Nikolić, D. (2025).** Unrealistic Feedback in Socially Prescriptive Speech Technologies. *Frontiers in Communication: Language Communication.*
+
+## 
