@@ -20,7 +20,7 @@ Research Scientist<br> Acoustics Research Institute<br> Austrian Academy of Scie
 
 <p class="intro-text">
 
-My research explores the architecture of human speech processing, with a particular focus on how listeners and speakers produce, perceive, and process linguistic information.
+I am currently working on the processing of acoustic cues of lexical prosody by native and non-native listeners. My goal is to explore 1) the cognitive and 2) neural activity of the brain during the integration of acoustic cues as they are being processed in speech.
 
 </p>
 
@@ -32,7 +32,7 @@ My research explores the architecture of human speech processing, with a particu
 :::
 
 ::: hero-image
-<img src="images/profile.jpg" alt="Dušan Nikolić"/>
+<img src="images/profile.png" alt="Dušan Nikolić"/>
 :::
 :::::
 
@@ -40,7 +40,7 @@ My research explores the architecture of human speech processing, with a particu
 
 My overarching research goal is to contribute to an understanding of the architecture of human speech processing.
 
-My work investigates the interaction between acoustic, phonetic, phonological, and cognitive processes involved in speech production and perception.
+My work investigates the interaction between acoustic, phonetic and neurocognitive processes involved in speech production and perception.
 
 ### Research interests
 
