@@ -32,7 +32,7 @@ I am currently working on the processing of acoustic cues of lexical prosody by 
 :::
 
 ::: hero-image
-<img src="images/profile.png" alt="Dušan Nikolić"/>
+<img src="images/profile.jpg" alt="Dušan Nikolić"/>
 :::
 :::::
 
