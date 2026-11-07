@@ -4,25 +4,24 @@
 title: "Research"
 ---
 
-My overarching research goal is to contribute to an understanding of the **architecture of human speech processing**. I investigate how acoustic, phonetic, phonological, and cognitive information interacts during speech production and perception.
+My overarching research goal is to contribute to an understanding of the **architecture of human speech processing**. I investigate how acoustic, phonetic and neurocognitive information interacts during speech production and perception.
 
 My research approaches speech as a dynamic process in which linguistic information is shaped by multiple sources of variation, contextual influences, and the interaction of prosodic and segmental information.
 
 ## Research themes
 
-### 1. Variation and variability
+### 1. Neurocognition of speech processing
+
+Speech exhibits many microdecisions whose anticipatory effects are rarely visible. Yet, these decisions exists, and I aim to understand what happens in the brain both until and shortly after the commitment to a phoneme, syllable, a word, or a phrase is made.
+
+### 2. Variation and variability
 
 Speech exhibits substantial variation across speakers, linguistic environments, and communicative situations. I am interested in understanding how this variation emerges, how it is represented, and how listeners accommodate it during speech perception.
 
-### 2. Context effects
-
-Speech processing is influenced by the linguistic and situational context in which speech occurs. My research examines how contextual information shapes the production and perception of speech, and how listeners integrate different sources of information during spoken language processing.
 
 ### 3. Lexical prosody and speech processing
 
-My work investigates how prosodic properties of speech, particularly lexical stress, pitch, and duration, contribute to spoken word recognition.
-
-I am particularly interested in how listeners use multiple acoustic cues, how these cues interact during lexical processing, and how their perceptual weighting is shaped by linguistic experience.
+My work investigates how prosodic properties of speech, particularly lexical prosodic categories such as lexical pitch accent and lexical stress contribute to spoken word recognition. I am particularly interested in how listeners integrate multiple acoustic cues, and how their perceptual weighting is shaped by linguistic experience.
 
 ## Research approaches
 

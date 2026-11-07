@@ -6,7 +6,7 @@ title: ""
 ::: hero-copy
 <p class="eyebrow">
 
-PHONETICS · PHONOLOGY · SPEECH PROCESSING
+PHONETICS · SPEECH PROCESSING · SPEECH PROCESSING
 
 </p>
 
@@ -20,13 +20,11 @@ Research Scientist<br> Acoustics Research Institute<br> Austrian Academy of Scie
 
 <p class="intro-text">
 
-I am currently working on the processing of acoustic cues of lexical prosody by native and non-native listeners. My goal is to explore 1) the cognitive and 2) neural activity of the brain during the integration of acoustic cues as they are being processed in speech.
+I am currently working on the processing of acoustic cues of lexical prosody by native and non-native listeners. My goal is to explore the cognitive and neural activity of the brain during the integration of acoustic cues as they are being processed in speech.
 
 </p>
 
 <p class="hero-links">
-
-<a href="research.qmd">Research</a> / <a href="publications.qmd">Publications</a> / <a href="cv.qmd">Curriculum Vitae</a>
 
 </p>
 :::
@@ -44,9 +42,10 @@ My work investigates the interaction between acoustic, phonetic and neurocogniti
 
 ### Research interests
 
-- **Variation and variability** — individual, linguistic, and contextual sources of variation in speech.
-- **Context effects** — how linguistic and situational contexts shape speech production and perception.
-- **Lexical prosody and speech processing** — how prosodic information contributes to the recognition and processing of spoken language.
+- **Neurocognition** — how evidence accumulation shapes the moment-by-moment choices in speech perception and production.
+- **Variation and variability** — how individual, linguistic, and contextual sources of variation shape speech processing
+- **Cross-linguistic effects** — how differences in listners' and speakers' native languages shape speech production and perception.
+- **Prosodic representation** — how prosodic information contributes to the recognition and processing of spoken language.
 
 ## Current affiliation
 

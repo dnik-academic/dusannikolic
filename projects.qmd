@@ -8,38 +8,15 @@ title: "Projects"
 
 My research examines how listeners and speakers produce, perceive, and process linguistic information. The projects below address different aspects of this broader goal, with a particular focus on lexical prosody and spoken language processing.
 
-## NEULEX: Evidence Accumulation During Lexical Processing
-
-**Research focus:** Lexical stress and spoken word recognition
-
-This project investigates how listeners accumulate and integrate acoustic evidence during spoken word recognition, with a particular focus on lexical stress.
-
-It aims to better understand how prosodic information contributes to lexical processing and how different acoustic cues shape the recognition of spoken words.
-
-**Research questions**
-
-- How do listeners use stress-related acoustic information during spoken word recognition?
-- How are different prosodic cues integrated over time?
-- How does linguistic experience shape the accumulation of perceptual evidence?
-
-**Methods**
-
-- Electroencephalography (EEG)
-- Eye-tracking
-- Auditory perception experiments
-- Computational modelling of evidence accumulation
-
-<text class="project-status">Research proposal in development</text>
-
 ---
 
-## The Perception of Serbian Lexical Pitch Accents
+## PROLEX: Processing of Lexical Prosody
 
-**Research focus:** Lexical prosody, pitch, and duration
+**Research focus:** Word recognition through lexical prosody
 
-This project examines how listeners perceive and use acoustic cues to distinguish Serbian lexical pitch accents. In particular, it investigates the relative contribution of pitch and duration to lexical recognition.
+This project examines how listeners perceive and use lexical-prosodic acoustic cues to recognize native and non-native  words. The first part of the project examines word recognition through the use of the acoustic cues of lexical pitch accents by English, German, and Serbian listeners. We employ nonsense word-learning and eye-tracking methodology in this part. This part is carried out with the group from the University of Calgary and the Austrian Academy of Sciences. 
 
-By comparing native Serbian listeners and listeners with different linguistic backgrounds, the research explores how language experience shapes the perceptual weighting of prosodic cues.
+The second part of the project explores the neural activity during the automatic processing of stress location and stress cues in Standard German and Austrian German. We use EEG measurements, specifically focusing on the MMN components in a multi-feature oddball task. 
 
 **Research questions**
 
@@ -75,6 +52,29 @@ This line of research investigates how speech sounds are realised in different p
 - Statistical modelling
 
 ---
+
+## NEULEX: Evidence Accumulation During Lexical Processing
+
+**Research focus:** Lexical stress and spoken word recognition
+
+This project investigates how listeners accumulate and integrate acoustic evidence during spoken word recognition, with a particular focus on lexical stress.
+
+It aims to better understand how prosodic information contributes to lexical processing and how different acoustic cues shape the recognition of spoken words.
+
+**Research questions**
+
+- How do listeners use stress-related acoustic information during spoken word recognition?
+- How are different prosodic cues integrated over time?
+- How does linguistic experience shape the accumulation of perceptual evidence?
+
+**Methods**
+
+- Electroencephalography (EEG)
+- Eye-tracking
+- Auditory perception experiments
+- Computational modelling of evidence accumulation
+
+<text class="project-status">Research proposal in development</text>
 
 ## A broader research perspective
 

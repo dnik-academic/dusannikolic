@@ -4,8 +4,6 @@
 title: "Curriculum Vitae"
 ---
 
-# Curriculum Vitae
-
 <p class="cv-download">
   <a href="files/Dusan_Nikolic_CV.pdf" target="_blank">
     ↓ Download full CV (PDF)
@@ -42,7 +40,8 @@ University of Niš, Serbia
 
 ## Awards and fellowships
 
-- Killam Doctoral Scholarship (2021)
+- Seal of Excellence Postdoctoral Fellowship
+- Killam Doctoral Scholarship 
 - Eyes High Doctoral and International Awards
 - Dositeja Fund Scholarship
 - Dean's Entrance Award
