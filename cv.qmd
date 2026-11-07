@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 ---
 
 <p class="cv-download">
-  <a href="files/Dusan_Nikolic_CV.pdf" target="_blank">
+  <a href="files/DusanNikolic_CV.pdf" target="_blank">
     ↓ Download full CV (PDF)
   </a>
 </p>

@@ -22,9 +22,10 @@ Vienna, Austria
 
 ## Academic profiles
 
-- [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL)
-- [ORCID](YOUR_ORCID_URL)
-- [ResearchGate](YOUR_RESEARCHGATE_URL)
-- [GitHub](YOUR_GITHUB_URL)
+- [Google Scholar](https://scholar.google.ca/citations?user=z7KtKYcAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0002-4152-6338)
+- [Web of Science](https://www.webofscience.com/wos/author/record/JAC-7807-2023)
+- [ResearchGate](https://www.researchgate.net/profile/Dusan-Nikolic-4?ev=hdr_xprf)
+- [GitHub](https://github.com/dnik-academic)
 
 ---
