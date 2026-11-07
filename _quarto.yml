@@ -21,6 +21,16 @@ website:
         text: CV
       - href: teaching.qmd
         text: Teaching
+      - text: Teaching
+        menu:
+          - href: teaching/index.qmd
+            text: Teaching Overview
+          - href: teaching/phonetics.qmd
+            text: Phonetics
+          - href: teaching/introtolinguistics.qmd
+            text: Intro to Linguistics
+          - href: teaching/linganthropology.qmd
+            text: Linguistic Anthropology
       - href: contact.qmd
         text: Contact
 
