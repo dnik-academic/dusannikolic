@@ -20,7 +20,7 @@ Research Scientist<br> Acoustics Research Institute<br> Austrian Academy of Scie
 
 <p class="intro-text">
 
-I am currently working on the processing of acoustic cues of lexical prosody by native and non-native listeners. My goal is to explore the cognitive and neural activity of the brain during the integration of acoustic cues as they are being processed in speech.
+I am currently working on the processing of acoustic cues of lexical prosody by native and non-native listeners. My goal is to explore the integration of the acoustic cues of spoken language as it is being processed in speech. I want to understand what happens in the brain until we make specific language decisions and how the choices relate to speech processing.
 
 </p>
 
