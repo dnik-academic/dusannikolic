@@ -139,9 +139,7 @@ p {
 .hero-image img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
-  object-position: center;
+  height: auto;
   border-radius: 2px;
 }
 
