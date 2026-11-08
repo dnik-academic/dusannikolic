@@ -4,8 +4,6 @@
 title: "Projects"
 ---
 
-# Research Projects
-
 My research examines how listeners and speakers produce, perceive, and process linguistic information. The projects below address different aspects of this broader goal, with a particular focus on lexical prosody and spoken language processing.
 
 ---
