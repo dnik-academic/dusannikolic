@@ -33,7 +33,7 @@ website:
             text: Phonetics
           - href: teaching/introtolinguistics.qmd
             text: Intro to Linguistics
-          - href: teaching/linganthropology.qmd
+          - href: teaching/linganthro.qmd
             text: Linguistic Anthropology
       - href: contact.qmd
         text: Contact
