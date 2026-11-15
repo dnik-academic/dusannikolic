@@ -1,0 +1,51 @@
+---
+
+---
+title: "Linguistics Anthropology"
+---
+
+## Course Outline
+
+[**Syllabus (PDF)**](https://dusannikolic.com/docs/LinguisticAnthro/ANTH1106_Syllabus.pdf)
+
+## Handouts & Practice Materials
+
+- [Sample Quiz (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/SampleQuizPractice_Intro.pdf)
+- [English Consonants and Vowels (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/Eng_Consonants_Vowels.pdf)
+- [English IPA Symbols with Examples (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/IPA%20Symbols%20-%20Examples%20with%20Words.pdf)
+- [Practice Exercises: Phonetics, Phonology, and Morphology (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/PracticeExercises_Phonetics_Phonology_Morphology.pdf)
+- [JeoBardy (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/JeoBardy.pdf)
+- [Practice Exercises: Non-Verbal Communication and Design Features (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/PracticeExercises_Non-VerbalCommunication_DesignFeatures.pdf)
+- [Practice Exercises: Language Acquisition and Language Families (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/Practice_Exercises_LanguageAcquisition_LanguageFamilies.pdf)
+- [Practice Exercises: Language Contact and Variation (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/Practice%20Exercises_ContactVariation.pdf)
+- [Practice Exercises: Ethnography of Communication (PDF)](https://dusannikolic.com/docs/LinguisticAnthro/Practice%20Exercises_EthnographyofCommunication.pdf)
+
+## Module 1
+
+### Introduction to Linguistic Anthropology
+
+- **Introduction:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/1.Intro_Linguistics_Anthro.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/1.Intro_Linguistics_Anthro.pptx) | [YouTube](https://www.youtube.com/watch?v=fyXLcGKYXFk)
+- **Methods:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/2.%20Theories%20and%20Methods%20of%20Linguistic%20Anthropology.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/2.%20Theories%20and%20Methods%20of%20Linguistic%20Anthropology.pptx) | [YouTube](https://www.youtube.com/watch?v=i8sRUls6J88)
+
+### Language Structure
+
+- **Phonetics:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/3.%20Phonetics.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/3.%20Phonetics.pptx) | [YouTube](https://www.youtube.com/watch?v=WwOOKyqgYaA)
+- **Phonology:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/4.%20Phonology.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/4.%20Phonology.pptx) | [YouTube](https://youtu.be/6BF_EwxWA8U?si=96449q3-FVJLIJe8)
+- **Morphology and Syntax:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/Morphology_Syntax.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/Morphology_Syntax.pptx) | [YouTube](https://youtu.be/qfFLZRkoNsE)
+
+### Communication and Language
+
+- **Nonverbal Communication and Writing:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/Non-verbal%20Communication%20&%20Writing.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/Non-verbal%20Communication%20&%20Writing.pptx) | [YouTube](https://youtu.be/s8-HL4V_8mQ?si=519Vq7PPmtaNtpsn)
+- **Design Features of Language:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/DesignFeatures.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/DesignFeatures.pptx) | [YouTube](https://youtu.be/H20ymgRpQaY)
+- **Animal Communication:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/AnimalCommunication.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/AnimalCommunication.pptx) | [YouTube](https://youtu.be/F8fNsgalZ1Q)
+
+### Language, Society, and Culture
+
+- **Language Acquisition:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/LanguageAcquisition.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/LanguageAcquisition.pptx)
+- **Language Through Time:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/Language_Through_Time.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/Language_Through_Time.pptx)
+- **Languages in Variation and Contact:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/Languages_in_Variation_and_Contact.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/Languages_in_Variation_and_Contact.pptx)
+- **Ethnography of Communication:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/Ethnography%20of%20Communication.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/Ethnography%20of%20Communication.pptx)
+- **Language, Culture, and Thought:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/Language,%20Culture,%20Thought.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/Language,%20Culture,%20Thought.pptx)
+- **Sociolinguistics:** [PDF](https://dusannikolic.com/docs/LinguisticAnthro/Sociolinguistics.pdf) | [PPTX](https://dusannikolic.com/docs/LinguisticAnthro/Sociolinguistics.pptx)
+
+---
