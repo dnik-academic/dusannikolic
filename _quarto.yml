@@ -17,6 +17,8 @@ website:
             text: Research Overview
           - href: research/perceptualinsensitivity.qmd
             text: PerceptualInsensitivity
+            href: research/perceptualmapping.qmd
+            text: PerceptualMapping
       - href: publications.qmd
         text: Publications
       - href: projects.qmd
