@@ -11,14 +11,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
+      - text: Research
+        menu:
+          - href: research/index.qmd
+            text: Research Overview
+          - href: research/perceptualinsensitivity.qmd
+            text: PerceptualInsensitivity
       - href: publications.qmd
         text: Publications
       - href: projects.qmd
         text: Projects
       - href: cv.qmd
         text: CV
+      - href: teaching.qmd
+        text: Teaching
       - text: Teaching
         menu:
           - href: teaching/index.qmd
