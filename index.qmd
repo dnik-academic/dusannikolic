@@ -20,13 +20,21 @@ Research Scientist<br> Acoustics Research Institute<br> Austrian Academy of Scie
 
 <p class="intro-text">
 
-I am currently working on the processing of acoustic cues of lexical prosody by native and non-native listeners. My goal is to explore the integration of the acoustic cues of spoken language as it is being processed in speech. I want to understand what happens in the brain until we make specific language decisions and how the choices relate to speech processing.
+
+I am a **postdoctoral researcher in phonetics and speech science** at the [Acoustics Research Institute, Austrian Academy of Sciences (ÖAW)](https://www.oeaw.ac.at/isf) in Vienna, Austria. I received my PhD in Linguistics, specializing in Phonetics and Speech Sciences, from the University of Calgary. My research explores how humans perceive, represent, and process the sounds and prosodic patterns of language, with a particular interest in the cognitive and neurocognitive mechanisms underlying speech perception and language processing.
+
+## Research Focus & Interests
+
+**Speech Perception and Linguistic Categories.** My research investigates how listeners perceive and organize speech sounds into linguistic categories, how they adapt to variation in spoken language, and how different sources of information shape speech perception. A central question is how listeners extract meaningful linguistic structure from the highly variable acoustic signals of everyday speech.
+
+**Prosody and Spoken-Word Recognition.** I examine how listeners use prosodic information, particularly lexical stress, pitch accent, and duration, to recognize spoken words. My work explores how linguistic experience shapes sensitivity to these cues and how listeners process unfamiliar prosodic systems.
+
+**Cognitive Mechanisms and Individual Differences.** A broader goal of my research is to understand the cognitive and neurocognitive mechanisms that support speech processing, including how listeners integrate acoustic information, adapt to unfamiliar speech patterns, and form and update linguistic categories.
+
+**Language, Communication, and Clinical Perspectives.** I am interested in connecting fundamental research on speech perception with questions about real-life communication and individual differences in language processing, including potential implications for clinical populations. Ultimately, my work seeks to contribute to a better understanding of how the human mind makes sense of spoken language.
 
 </p>
 
-<p class="hero-links">
-
-</p>
 :::
 
 ::: hero-image
@@ -34,18 +42,6 @@ I am currently working on the processing of acoustic cues of lexical prosody by 
 :::
 :::::
 
-## Research
-
-My overarching research goal is to contribute to an understanding of the architecture of human speech processing.
-
-My work investigates the interaction between acoustic, phonetic and neurocognitive processes involved in speech production and perception.
-
-### Research interests
-
-- **Neurocognition** — how evidence accumulation shapes the moment-by-moment choices in speech perception and production.
-- **Variation and variability** — how individual, linguistic, and contextual sources of variation shape speech processing
-- **Cross-linguistic effects** — how differences in listners' and speakers' native languages shape speech production and perception.
-- **Prosodic representation** — how prosodic information contributes to the recognition and processing of spoken language.
 
 ## Current affiliation
 
